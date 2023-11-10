@@ -1,0 +1,20 @@
+﻿SimpleTrader.WPF
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\VychuzhaninIA\Documents\GitHub_repos\WPF projects\TraidingApplication\SimpleTraderWPF\SimpleTrader.WPF\obj\Debug\net6.0-windows\
+SimpleTrader.WPF
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\VychuzhaninIA\Documents\GitHub_repos\WPF projects\TraidingApplication\SimpleTraderWPF\SimpleTrader.WPF\App.xaml
+9892937298
+
+30-765268525
+226502867307
+Controls\MajorIndexCard.xaml;Controls\MajorIndexListing.xaml;Controls\NavigationBar.xaml;MainWindow.xaml;Styles\Common.xaml;Styles\NavigationBar.xaml;Views\BuyView.xaml;Views\HomeView.xaml;Views\PortfolioView.xaml;
+
+False
+

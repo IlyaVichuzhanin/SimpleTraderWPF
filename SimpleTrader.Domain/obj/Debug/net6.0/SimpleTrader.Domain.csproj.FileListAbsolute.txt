@@ -24,3 +24,4 @@ C:\Users\VychuzhaninIA\Documents\GitHub_repos\WPF projects\TraidingApplication\S
 C:\Users\VychuzhaninIA\Documents\GitHub_repos\WPF projects\TraidingApplication\SimpleTraderWPF\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.pdb
 C:\Users\VychuzhaninIA\Documents\GitHub_repos\WPF projects\TraidingApplication\SimpleTraderWPF\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.genruntimeconfig.cache
 C:\Users\VychuzhaninIA\Documents\GitHub_repos\WPF projects\TraidingApplication\SimpleTraderWPF\SimpleTrader.Domain\obj\Debug\net6.0\ref\SimpleTrader.Domain.dll
+C:\Users\VychuzhaninIA\Documents\GitHub_repos\WPF projects\TraidingApplication\SimpleTraderWPF\SimpleTrader.Domain\obj\Debug\net6.0\SimpleTrader.Domain.csproj.AssemblyReference.cache

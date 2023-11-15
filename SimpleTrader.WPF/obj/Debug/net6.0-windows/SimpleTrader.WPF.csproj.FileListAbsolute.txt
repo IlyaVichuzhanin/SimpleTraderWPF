@@ -176,3 +176,4 @@ C:\Users\VychuzhaninIA\Documents\GitHub_repos\WPF projects\TraidingApplication\S
 C:\Users\VychuzhaninIA\Documents\GitHub_repos\WPF projects\TraidingApplication\SimpleTraderWPF\SimpleTrader.WPF\obj\Debug\net6.0-windows\SimpleTrader.WPF.pdb
 C:\Users\VychuzhaninIA\Documents\GitHub_repos\WPF projects\TraidingApplication\SimpleTraderWPF\SimpleTrader.WPF\obj\Debug\net6.0-windows\SimpleTrader.WPF.genruntimeconfig.cache
 C:\Users\VychuzhaninIA\Documents\GitHub_repos\WPF projects\TraidingApplication\SimpleTraderWPF\SimpleTrader.WPF\obj\Debug\net6.0-windows\ref\SimpleTrader.WPF.dll
+C:\Users\VychuzhaninIA\Documents\GitHub_repos\WPF projects\TraidingApplication\SimpleTraderWPF\SimpleTrader.WPF\bin\Debug\net6.0-windows\Microsoft.AspNet.Identity.Core.dll
